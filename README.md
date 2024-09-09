@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratyush-Punj
-- 🌱 I’m currently learning C, Java, Python
+- 🌱 I’m currently learning C, C++
 - 😄 Pronouns: he/him
 
 <!---
